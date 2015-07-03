@@ -1,6 +1,6 @@
 # test-repo
 ##This is a test repo
 
-*hi
-*hello
-*good morning
+* hi
+* hello
+* good morning
